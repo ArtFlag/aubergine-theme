@@ -1,0 +1,24 @@
+{
+    "name": "aubergine",
+    "displayName": "Aubergine",
+    "description": "A theme matching Slack's \"aubergine\" theme.",
+    "publisher": "artflag",
+    "repository": "https://github.com/ArtFlag/aubergine-theme",
+    "version": "0.0.1",
+    "categories": ["Themes"],
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Aubergine",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Aubergine-color-theme.json"
+            }
+        ]
+    }
+}
