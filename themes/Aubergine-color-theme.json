@@ -68,7 +68,7 @@
 		"sideBarSectionHeader.background": "#262327",
 		"statusBar.background": "#19171d",
 		"statusBar.debuggingBackground": "#1164A3",
-		"statusBar.debuggingForeground": "#121110",
+		"statusBar.debuggingForeground": "#d4d4d4",
 		"statusBar.noFolderBackground": "#121110",
 		"statusBarItem.activeBackground": "#1164A3",
 		"statusBarItem.hoverBackground": "#8214ff30",
@@ -309,7 +309,7 @@
 				"constant.other"
 			],
 			"settings": {
-				"foreground": "#1966a1cf"
+				"foreground": "#33a7ff"
 			}
 		},
 		{
@@ -376,14 +376,14 @@
 			"scope": "markup.bold",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#3583be"
+				"foreground": "#3a93d8"
 			}
 		},
 		{
 			"scope": "markup.heading",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#3583be",
+				"foreground": "#3a93d8",
 			}
 		},
 		{
@@ -541,7 +541,7 @@
 		{
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#eac66c"
+				"foreground": "#c1bd54"
 			}
 		},
 		{
@@ -663,7 +663,7 @@
 				"meta.function-call.generic.python"
 			],
 			"settings": {
-				"foreground": "#ABD166"
+				"foreground": "#c1bd54"
 			}
 		},
 		{
@@ -712,7 +712,7 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#1164A3",
+				"foreground": "#3a93d8",
 				"fontStyle": "italic"
 			}
 		},
