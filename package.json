@@ -24,6 +24,11 @@
                 "label": "Aubergine",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Aubergine-color-theme.json"
+            },
+            {
+                "label": "Aubergine Italic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Aubergine-italic-color-theme.json"
             }
         ]
     }
