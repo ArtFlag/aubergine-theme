@@ -1,5 +1,6 @@
 # Change Log
 
+- 22 Jul 2021 - Copy new search colors to italics variant
 - 22 Feb 2020 - Improve search match colors
 - 07 Dec 2020 - Add variant: use italics for html attributes
 - 06 Dec 2020 - Fix peek background colour
